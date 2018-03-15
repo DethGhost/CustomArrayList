@@ -1,0 +1,6 @@
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\bin\Debug\CustomArrayList.exe
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\bin\Debug\CustomArrayList.pdb
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\obj\Debug\CustomArrayList.csprojResolveAssemblyReference.cache
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\obj\Debug\CustomArrayList.csproj.CoreCompileInputs.cache
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\obj\Debug\CustomArrayList.exe
+C:\Users\eugen\RiderProjects\CustomArrayList\CustomArrayList\obj\Debug\CustomArrayList.pdb
