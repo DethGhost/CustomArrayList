@@ -3,7 +3,7 @@ using System.Collections;
 
 namespace CustomArrayList
 {
-    public class MyArrayList : IEnumerable
+    public class MyArrayList : IEnumerable, ICloneable
     {
         private Object[] array;
 
@@ -109,6 +109,17 @@ namespace CustomArrayList
             {
                 yield return this.array[i];
             }
+        }
+        
+        public object Clone()
+        {
+            var array = new MyArrayList();
+            foreach(var item in this.array)
+            {
+                array.Add(item);
+            }
+
+            return array;
         }
     }
 }
